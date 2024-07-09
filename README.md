@@ -1,5 +1,5 @@
 # Retail Sales Report
-![]()
+![](Polling_Units.jpg)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
